@@ -1,5 +1,6 @@
 package com.revising.apidev.entity;
 
+import com.revising.apidev.entity.user.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

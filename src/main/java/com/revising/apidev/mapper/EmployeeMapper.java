@@ -1,7 +1,7 @@
 package com.revising.apidev.mapper;
 
 import com.revising.apidev.dto.EmployeeDTO;
-import com.revising.apidev.entity.Employee;
+import com.revising.apidev.entity.revision.Employee;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 

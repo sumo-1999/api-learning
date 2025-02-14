@@ -1,8 +1,8 @@
 package com.revising.apidev.service.impl;
 
-import com.revising.apidev.entity.User;
+import com.revising.apidev.entity.user.User;
 import com.revising.apidev.entity.UserPrincipal;
-import com.revising.apidev.repository.UserRepository;
+import com.revising.apidev.repository.user.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

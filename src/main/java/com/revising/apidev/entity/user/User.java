@@ -1,4 +1,4 @@
-package com.revising.apidev.entity;
+package com.revising.apidev.entity.user;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

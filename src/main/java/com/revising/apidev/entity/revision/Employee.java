@@ -1,12 +1,12 @@
-package com.revising.apidev.entity;
+package com.revising.apidev.entity.revision;
 
+import com.revising.apidev.entity.revision.CreateUpdate;
 import jakarta.persistence.*;
 import lombok.*;
 import lombok.experimental.SuperBuilder;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.util.Date;
 
 @EqualsAndHashCode(callSuper = true)
 @Entity
@@ -52,3 +52,4 @@ public class Employee extends CreateUpdate {
 
     }
 }
+

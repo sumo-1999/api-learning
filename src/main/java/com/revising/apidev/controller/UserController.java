@@ -1,6 +1,6 @@
 package com.revising.apidev.controller;
 
-import com.revising.apidev.entity.User;
+import com.revising.apidev.entity.user.User;
 import com.revising.apidev.service.impl.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;

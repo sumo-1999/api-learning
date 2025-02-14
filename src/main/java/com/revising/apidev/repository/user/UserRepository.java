@@ -1,6 +1,6 @@
-package com.revising.apidev.repository;
+package com.revising.apidev.repository.user;
 
-import com.revising.apidev.entity.User;
+import com.revising.apidev.entity.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
